@@ -1,0 +1,13 @@
+import json
+
+weather_data = {
+    "id": "weather12345",
+    "text": "The current temperature in Temple, Texas is 75°F with partly cloudy skies.",
+    "source": "openweathermap.org",
+    "source_url": "https://openweathermap.org/city/12345",
+    "language": "en",
+    "permalink": "https://openweathermap.org/current"
+}
+
+with open('weather.json', 'w') as file:
+    json.dump(weather_data, file, indent=4)
