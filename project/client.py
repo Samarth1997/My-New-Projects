@@ -29,7 +29,7 @@ class DeepSeekAIClient:
 # Example usage
 if __name__ == "__main__":
     # Replace with your actual API key
-    API_KEY = "sk-82fcf7aadf0e4764be99225ea03f0535"
+    API_KEY = "Your API-KEY"
     
     # Initialize the client
     client = DeepSeekAIClient(api_key=API_KEY)
