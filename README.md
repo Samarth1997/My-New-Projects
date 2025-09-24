@@ -1,8 +1,8 @@
 Jarvis - AI Virtual Desktop Assistant (Python)
 
 Jarvis is a powerful voice-activated desktop assistant built using Python. It performs a wide range of tasks such as opening websites, sending emails, telling jokes, setting timers, fetching news, providing weather reports, and much more — all controlled via speech recognition. Think of it as your personal desktop-based Jarvis!
-Features
 
+🚀 Features
 🔊 Voice-controlled assistant using speech_recognition
 
 🌐 Open popular websites (Google, YouTube, Facebook, LinkedIn, etc.)
@@ -35,7 +35,7 @@ Features
 
 ❌ Exit or deactivate on command
 
-Technologies Used
+🛠️ Technologies Used
 
 Python 3.x
 
